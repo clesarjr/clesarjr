@@ -1,12 +1,12 @@
 ### Olá, eu sou Clésar Sapelli Junior 👋
 
-<div align="block" sytle="display:flex">
+<div align="block" sytle="display:flex;">
   <a href="https://github.com/clesarjr">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=clesarjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clesarjr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br/>
-<div align="center style="display: inline-block;"><br>
+<div align="center style="display: inline-block; margin-top:150px"><br>
   <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
