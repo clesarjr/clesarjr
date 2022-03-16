@@ -6,5 +6,17 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clesarjr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br/>
+  <div align="center style="display: inline-block; border-top: 40px solid #f55;"><br>
+  <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+     <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+     <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+     <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+     <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  </div>
+<br/>
 
 ![Snake animation](https://github.com/RamonMarqueviski/RamonMarqueviski/blob/output/github-contribution-grid-snake.svg)
